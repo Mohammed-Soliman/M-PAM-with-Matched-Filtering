@@ -1,7 +1,7 @@
 # M-PAM-with-Matched-Filtering
 This project implements and analyzes a digital baseband communication system using M-ary Pulse Amplitude Modulation (M-PAM) with matched filtering. The system simulates a correlation receiver operating over an AWGN channel and evaluates its Bit Error Rate (BER) and Symbol Error Rate (SER) performance.
 
-Course: CIE 237 – Probability and Stochastic Processes
+Course: CIE 237 – Probability and Stochastic Processes  
 Institution: Zewail City of Science and Technology  
 Semester: Spring 2026
 
